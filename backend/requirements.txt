@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+requests
+pydantic
+python-dotenv
+loguru
+# 锁定 LangChain 版本，防止打架
+langchain==0.2.6
+langchain-community==0.2.6
+langchain-core==0.2.10
+langchain-qdrant
+qdrant-client
+dashscope
+google-search-results
+beautifulsoup4
+redis
